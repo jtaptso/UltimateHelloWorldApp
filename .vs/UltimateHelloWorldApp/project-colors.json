@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b9cdfdb-e49a-4347-92ed-37bd3c456b53": {
+      "ProjectGuid": "1b9cdfdb-e49a-4347-92ed-37bd3c456b53",
+      "DisplayName": "UltimateHelloWorld",
+      "ColorIndex": 0
+    },
+    "422ab63e-ef85-40ba-9db0-e1358b63de81": {
+      "ProjectGuid": "422ab63e-ef85-40ba-9db0-e1358b63de81",
+      "DisplayName": "HelloWorldLibrary",
+      "ColorIndex": 1
+    },
+    "ab869aec-bfd2-41a2-b33e-51ef1ad0211e": {
+      "ProjectGuid": "ab869aec-bfd2-41a2-b33e-51ef1ad0211e",
+      "DisplayName": "HelloWorldTests",
+      "ColorIndex": 2
+    },
+    "830aba36-0c83-4b1b-9933-cd91ac0535dc": {
+      "ProjectGuid": "830aba36-0c83-4b1b-9933-cd91ac0535dc",
+      "DisplayName": "DemoFunction",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

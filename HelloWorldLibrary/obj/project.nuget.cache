@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BESY0clKnUpv/w+9Qeu7ruFntxtjjnhXjxbBA4r3NJ/n5D27U8Ncnej1DTQU2wNYBjrvx7GbHnfSCWKWZnwWxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\UltimateHelloWorldApp\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11031462\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
